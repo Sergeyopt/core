@@ -1,0 +1,4 @@
+И теперь обновление будет занимать буквально:
+git add .
+git commit -m "Update core"
+git push
